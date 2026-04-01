@@ -5,7 +5,8 @@
 
 #### Usage
 ```
-cd Keylogger
+cd advancedKeylogger
+
 ```
 python3 -m pip install -r requirements.txt
 ```
