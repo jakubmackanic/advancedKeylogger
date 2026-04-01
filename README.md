@@ -21,11 +21,7 @@ password = ""
 
 You should create a dedicated Gmail account for this purpose to handle email distribution. For detailed instructions, [click here](#configuring-gmail-smtp-settings) to learn how to enable SMTP and generate an app password.
 
-**5**
-```
 python3 -m PyInstaller --onefile --noconsole --icon=icon.ico temp.py
-```
-**6**
 ```
 cd dist
 ```
