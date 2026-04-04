@@ -1,4 +1,4 @@
-
+FOR EDUCATIONAL PURPOSES ONLY
 #### System requirements
 - MS Windows 10/11
 - [Python 3](https://www.python.org/downloads/)
